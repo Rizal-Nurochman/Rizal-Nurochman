@@ -36,7 +36,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rizal-nurochman&show_icons=true&theme=radical&border_radius=10" alt="rizal-nurochman" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizal-nurochman&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizal-Nurochman&layout=compact&cache_seconds=60" alt="Top Languages" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rizal-nurochman&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </div>
